@@ -119,5 +119,5 @@ XlsxWriter==1.1.8
 yarl==1.4.1
 mlflow==1.10.0
 O365==2.0.11
-tensorflow==2.2.0
+tensorflow==2.4.0
 tensorflow-hub==0.8.0
