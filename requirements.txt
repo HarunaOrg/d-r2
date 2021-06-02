@@ -108,7 +108,7 @@ tqdm==4.32.2
 typing-extensions==3.7.4
 ujson==1.35
 Unidecode==1.0.22
-urllib3==1.25.10
+urllib3==1.26.5
 validators==0.13.0
 weighted-levenshtein==0.2.1
 werkzeug==0.16.1
